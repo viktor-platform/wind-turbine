@@ -1,0 +1,4 @@
+viktor==14.0.0
+trimesh
+ambiance
+geopy
